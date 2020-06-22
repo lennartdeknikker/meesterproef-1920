@@ -1,0 +1,3 @@
+[submodule "foxfit"]
+	path = foxfit_product
+	url = https://github.com/kylebot0/foxfit

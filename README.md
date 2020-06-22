@@ -1,5 +1,2 @@
 # Meesterproef @cmda-minor-web 1920
-
-In de Meesterproef ga je toepassen wat je in de Minor Web Development hebt geleerd.
-Voor de Meesterproef krijg je een opdracht van een echte opdrachtgever.
-Je gaat leren hoe je de geleerde kennis en skills kan gebruiken om een oplossing voor een probleem te ontwerpen. Testen, maken, evalueren, testen, maken ... er
+The `foxfit_product` folder contains our final application that functions as a proof of concept for the FoxFit project. We worked on this project as part of [the course called "Meesterproef"](https://github.com/cmda-minor-web/meesterproef-1920) for the Web Development minor at the Amsterdam University of Applied Sciences. More information on this project can be found in [the wiki of the project repo](https://github.com/kylebot0/foxfit/wiki)
