@@ -3,10 +3,10 @@ The [`foxfit_product`](https://github.com/kylebot0/foxfit/tree/b0fd4d8faf68c2ade
 
 We worked on this project as part of [the course called "Meesterproef"](https://github.com/cmda-minor-web/meesterproef-1920) for [the Web Development minor](https://everythingweb.org/) at the [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/). More information on this project and the [Design Rationale](https://github.com/kylebot0/foxfit/wiki) can be found in [the wiki of the original project repository](https://github.com/kylebot0/foxfit/wiki).
 
-### Live demo
+#### Live demo
 Check out a demo of the actual application [here](https://foxfit.herokuapp.com/).
 
-### Product biography
+#### Product biography
 As part of the exercise, we also had to write our own product biography. This document is part of [this repository's wiki](https://github.com/lennartdeknikker/meesterproef-1920/wiki).
 
 ## Links
